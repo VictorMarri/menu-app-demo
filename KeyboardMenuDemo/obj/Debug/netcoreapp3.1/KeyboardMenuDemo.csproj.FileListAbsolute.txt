@@ -1,0 +1,12 @@
+C:\Users\Victor Marri\source\repos\KeyboardMenuDemo\KeyboardMenuDemo\bin\Debug\netcoreapp3.1\KeyboardMenuDemo.exe
+C:\Users\Victor Marri\source\repos\KeyboardMenuDemo\KeyboardMenuDemo\bin\Debug\netcoreapp3.1\KeyboardMenuDemo.deps.json
+C:\Users\Victor Marri\source\repos\KeyboardMenuDemo\KeyboardMenuDemo\bin\Debug\netcoreapp3.1\KeyboardMenuDemo.runtimeconfig.json
+C:\Users\Victor Marri\source\repos\KeyboardMenuDemo\KeyboardMenuDemo\bin\Debug\netcoreapp3.1\KeyboardMenuDemo.runtimeconfig.dev.json
+C:\Users\Victor Marri\source\repos\KeyboardMenuDemo\KeyboardMenuDemo\bin\Debug\netcoreapp3.1\KeyboardMenuDemo.dll
+C:\Users\Victor Marri\source\repos\KeyboardMenuDemo\KeyboardMenuDemo\bin\Debug\netcoreapp3.1\KeyboardMenuDemo.pdb
+C:\Users\Victor Marri\source\repos\KeyboardMenuDemo\KeyboardMenuDemo\obj\Debug\netcoreapp3.1\KeyboardMenuDemo.AssemblyInfoInputs.cache
+C:\Users\Victor Marri\source\repos\KeyboardMenuDemo\KeyboardMenuDemo\obj\Debug\netcoreapp3.1\KeyboardMenuDemo.AssemblyInfo.cs
+C:\Users\Victor Marri\source\repos\KeyboardMenuDemo\KeyboardMenuDemo\obj\Debug\netcoreapp3.1\KeyboardMenuDemo.csproj.CoreCompileInputs.cache
+C:\Users\Victor Marri\source\repos\KeyboardMenuDemo\KeyboardMenuDemo\obj\Debug\netcoreapp3.1\KeyboardMenuDemo.dll
+C:\Users\Victor Marri\source\repos\KeyboardMenuDemo\KeyboardMenuDemo\obj\Debug\netcoreapp3.1\KeyboardMenuDemo.pdb
+C:\Users\Victor Marri\source\repos\KeyboardMenuDemo\KeyboardMenuDemo\obj\Debug\netcoreapp3.1\KeyboardMenuDemo.genruntimeconfig.cache
